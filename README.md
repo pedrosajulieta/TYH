@@ -3,8 +3,8 @@
 Alumno: Pedrosa,Julieta
 Grupo: Los Absorbedores
 
-# Modulo 1, creación de textos e hipertectos
-Creare una carpeta para el CV y una para eñ capitulo del libro
+# Modulo 1, creación de textos e hipertextos
+Creare una carpeta para el CV y una para eñ capítulo del libro
 
 Repositorio de Github
 # Link del cv de mi repositorio haceindo click en la imagen
